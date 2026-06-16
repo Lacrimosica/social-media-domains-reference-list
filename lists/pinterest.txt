@@ -2,10 +2,10 @@
 # Description: Domains owned and operated by Pinterest
 # Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
 # License: GNU GPLv3
-# Last modified: 2026-06-16 12:00:00 UTC
+# Last modified: 2026-06-16 12:58:44 UTC
 # Format: hosts
 # Entries: 6
-# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/pinterest.txt
+# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/lists/pinterest.txt
 #
 0.0.0.0 pinterest.com
 0.0.0.0 pinimg.com

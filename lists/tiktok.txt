@@ -2,10 +2,10 @@
 # Description: Domains owned and operated by TikTok (ByteDance)
 # Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
 # License: GNU GPLv3
-# Last modified: 2026-06-16 12:00:00 UTC
+# Last modified: 2026-06-16 12:58:44 UTC
 # Format: hosts
 # Entries: 10
-# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/tiktok.txt
+# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/lists/tiktok.txt
 #
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokcdn.com
