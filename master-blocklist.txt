@@ -2,9 +2,9 @@
 # Description: Domains owned and operated by: Discord,Facebook (Meta Platforms),Instagram (Meta Platforms),LinkedIn (Microsoft),Mastodon,Medium,Pinterest,Reddit,Snapchat (Snap Inc.),TikTok (ByteDance),Twitch (Amazon),X / Twitter,Vimeo,YouTube (Google/Alphabet)
 # Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
 # License: GNU GPLv3
-# Last modified: 2026-06-16 12:58:58 UTC
+# Last modified: 2026-06-16 13:03:16 UTC
 # Format: hosts
-# Entries: 1182
+# Entries: 1327
 # URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/master-blocklist.txt
 #
 # This list contains domain names owned and operated by:
@@ -1047,6 +1047,151 @@ facebook.net.edgekey.net
 #
 youtube.com
 googlevideo.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 wide-youtube.l.google.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ggpht.com
+0.0.0.0 ggpht.cn
+0.0.0.0 withyoutube.com
+0.0.0.0 ytimg.com
+0.0.0.0 youtube.ae
+0.0.0.0 youtube.al
+0.0.0.0 youtube.am
+0.0.0.0 youtube.at
+0.0.0.0 youtube.az
+0.0.0.0 youtube.ba
+0.0.0.0 youtube.be
+0.0.0.0 youtube.bg
+0.0.0.0 youtube.bh
+0.0.0.0 youtube.bo
+0.0.0.0 youtube.by
+0.0.0.0 youtube.ca
+0.0.0.0 youtube.cat
+0.0.0.0 youtube.ch
+0.0.0.0 youtube.cl
+0.0.0.0 youtube.co
+0.0.0.0 youtube.co.ae
+0.0.0.0 youtube.co.at
+0.0.0.0 youtube.co.cr
+0.0.0.0 youtube.co.hu
+0.0.0.0 youtube.co.id
+0.0.0.0 youtube.co.il
+0.0.0.0 youtube.co.in
+0.0.0.0 youtube.co.jp
+0.0.0.0 youtube.co.ke
+0.0.0.0 youtube.co.kr
+0.0.0.0 youtube.co.ma
+0.0.0.0 youtube.co.nz
+0.0.0.0 youtube.co.th
+0.0.0.0 youtube.co.tz
+0.0.0.0 youtube.co.ug
+0.0.0.0 youtube.co.uk
+0.0.0.0 youtube.co.ve
+0.0.0.0 youtube.co.za
+0.0.0.0 youtube.co.zw
+0.0.0.0 youtube.com.ar
+0.0.0.0 youtube.com.au
+0.0.0.0 youtube.com.az
+0.0.0.0 youtube.com.bd
+0.0.0.0 youtube.com.bh
+0.0.0.0 youtube.com.bo
+0.0.0.0 youtube.com.br
+0.0.0.0 youtube.com.by
+0.0.0.0 youtube.com.cn
+0.0.0.0 youtube.com.co
+0.0.0.0 youtube.com.ec
+0.0.0.0 youtube.com.ee
+0.0.0.0 youtube.com.eg
+0.0.0.0 youtube.com.es
+0.0.0.0 youtube.com.gh
+0.0.0.0 youtube.com.gr
+0.0.0.0 youtube.com.gt
+0.0.0.0 youtube.com.hk
+0.0.0.0 youtube.com.hn
+0.0.0.0 youtube.com.hr
+0.0.0.0 youtube.com.hu
+0.0.0.0 youtube.com.ie
+0.0.0.0 youtube.com.il
+0.0.0.0 youtube.com.in
+0.0.0.0 youtube.com.jm
+0.0.0.0 youtube.com.jo
+0.0.0.0 youtube.com.kw
+0.0.0.0 youtube.com.kz
+0.0.0.0 youtube.com.lb
+0.0.0.0 youtube.com.lv
+0.0.0.0 youtube.com.ly
+0.0.0.0 youtube.com.mk
+0.0.0.0 youtube.com.mt
+0.0.0.0 youtube.com.mx
+0.0.0.0 youtube.com.my
+0.0.0.0 youtube.com.ng
+0.0.0.0 youtube.com.ni
+0.0.0.0 youtube.com.om
+0.0.0.0 youtube.com.pa
+0.0.0.0 youtube.com.pe
+0.0.0.0 youtube.com.ph
+0.0.0.0 youtube.com.pk
+0.0.0.0 youtube.com.pl
+0.0.0.0 youtube.com.pt
+0.0.0.0 youtube.com.py
+0.0.0.0 youtube.com.qa
+0.0.0.0 youtube.com.ro
+0.0.0.0 youtube.com.ru
+0.0.0.0 youtube.com.sa
+0.0.0.0 youtube.com.sg
+0.0.0.0 youtube.com.sk
+0.0.0.0 youtube.com.sv
+0.0.0.0 youtube.com.tn
+0.0.0.0 youtube.com.tr
+0.0.0.0 youtube.com.tw
+0.0.0.0 youtube.com.ua
+0.0.0.0 youtube.com.uy
+0.0.0.0 youtube.com.ve
+0.0.0.0 youtube.com.vn
+0.0.0.0 youtube.cz
+0.0.0.0 youtube.de
+0.0.0.0 youtube.dk
+0.0.0.0 youtube.ee
+0.0.0.0 youtube.es
+0.0.0.0 youtube.fi
+0.0.0.0 youtube.fr
+0.0.0.0 youtube.gr
+0.0.0.0 youtube.hu
+0.0.0.0 youtube.ie
+0.0.0.0 youtube.it
+0.0.0.0 youtube.jp
+0.0.0.0 youtube.kr
+0.0.0.0 youtube.lt
+0.0.0.0 youtube.lu
+0.0.0.0 youtube.lv
+0.0.0.0 youtube.mx
+0.0.0.0 youtube.nl
+0.0.0.0 youtube.no
+0.0.0.0 youtube.pl
+0.0.0.0 youtube.pt
+0.0.0.0 youtube.ro
+0.0.0.0 youtube.ru
+0.0.0.0 youtube.se
+0.0.0.0 youtube.si
+0.0.0.0 youtube.sk
+0.0.0.0 youtube.tr
+0.0.0.0 youtube.ua
+0.0.0.0 youtube.vn
+0.0.0.0 devicecompliance.youtube
+0.0.0.0 domaintest.youtube
+0.0.0.0 health.youtube
+0.0.0.0 lifeinaday.youtube
+0.0.0.0 news.youtube
+0.0.0.0 nflst.youtube
+0.0.0.0 nic.youtube
+0.0.0.0 office.youtube
+0.0.0.0 research.youtube
+0.0.0.0 rewind.youtube
+0.0.0.0 songwriters.youtube
+0.0.0.0 standards.youtube
+0.0.0.0 trends.youtube
 r3---sn-o097znlk.googlevideo.com
 r5---sn-n4v7knlk.googlevideo.com
 r5---sn-n4v7sn7y.googlevideo.com
