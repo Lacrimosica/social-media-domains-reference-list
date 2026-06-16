@@ -1,0 +1,422 @@
+# Title: Social Media Domains Reference List
+# Description: Comprehensive list of domains owned and operated by major social media platforms (YouTube, TikTok, Instagram, Facebook/Meta, X/Twitter, Reddit, LinkedIn, Pinterest, Snapchat, Discord, Telegram, WhatsApp, Twitch, Vimeo, Mastodon, Medium)
+# Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
+# License: GNU GPLv3
+# Last modified: 2026-06-16 12:00:00 UTC
+# Format: hosts
+# Entries: 345
+# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/list.txt
+#
+# This list contains domain names owned and operated by:
+# - YouTube (Google/Alphabet)
+# - TikTok (ByteDance)
+# - Instagram (Meta Platforms)
+# - Facebook (Meta Platforms)
+# - X / Twitter
+# - Reddit
+# - LinkedIn
+# - Pinterest
+# - Snapchat
+# - Discord
+# - Telegram
+# - WhatsApp (Meta Platforms)
+# - Twitch (Amazon)
+# - Vimeo
+# - Mastodon
+# - Medium
+#
+# YOUTUBE DOMAINS
+#
+0.0.0.0 youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 wide-youtube.l.google.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ggpht.com
+0.0.0.0 ggpht.cn
+0.0.0.0 withyoutube.com
+0.0.0.0 ytimg.com
+0.0.0.0 youtube.ae
+0.0.0.0 youtube.al
+0.0.0.0 youtube.am
+0.0.0.0 youtube.at
+0.0.0.0 youtube.az
+0.0.0.0 youtube.ba
+0.0.0.0 youtube.be
+0.0.0.0 youtube.bg
+0.0.0.0 youtube.bh
+0.0.0.0 youtube.bo
+0.0.0.0 youtube.by
+0.0.0.0 youtube.ca
+0.0.0.0 youtube.cat
+0.0.0.0 youtube.ch
+0.0.0.0 youtube.cl
+0.0.0.0 youtube.co
+0.0.0.0 youtube.co.ae
+0.0.0.0 youtube.co.at
+0.0.0.0 youtube.co.cr
+0.0.0.0 youtube.co.hu
+0.0.0.0 youtube.co.id
+0.0.0.0 youtube.co.il
+0.0.0.0 youtube.co.in
+0.0.0.0 youtube.co.jp
+0.0.0.0 youtube.co.ke
+0.0.0.0 youtube.co.kr
+0.0.0.0 youtube.co.ma
+0.0.0.0 youtube.co.nz
+0.0.0.0 youtube.co.th
+0.0.0.0 youtube.co.tz
+0.0.0.0 youtube.co.ug
+0.0.0.0 youtube.co.uk
+0.0.0.0 youtube.co.ve
+0.0.0.0 youtube.co.za
+0.0.0.0 youtube.co.zw
+0.0.0.0 youtube.com.ar
+0.0.0.0 youtube.com.au
+0.0.0.0 youtube.com.az
+0.0.0.0 youtube.com.bd
+0.0.0.0 youtube.com.bh
+0.0.0.0 youtube.com.bo
+0.0.0.0 youtube.com.br
+0.0.0.0 youtube.com.by
+0.0.0.0 youtube.com.cn
+0.0.0.0 youtube.com.co
+0.0.0.0 youtube.com.ec
+0.0.0.0 youtube.com.ee
+0.0.0.0 youtube.com.eg
+0.0.0.0 youtube.com.es
+0.0.0.0 youtube.com.gh
+0.0.0.0 youtube.com.gr
+0.0.0.0 youtube.com.gt
+0.0.0.0 youtube.com.hk
+0.0.0.0 youtube.com.hn
+0.0.0.0 youtube.com.hr
+0.0.0.0 youtube.com.hu
+0.0.0.0 youtube.com.ie
+0.0.0.0 youtube.com.il
+0.0.0.0 youtube.com.in
+0.0.0.0 youtube.com.jm
+0.0.0.0 youtube.com.jo
+0.0.0.0 youtube.com.kw
+0.0.0.0 youtube.com.kz
+0.0.0.0 youtube.com.lb
+0.0.0.0 youtube.com.lv
+0.0.0.0 youtube.com.ly
+0.0.0.0 youtube.com.mk
+0.0.0.0 youtube.com.mt
+0.0.0.0 youtube.com.mx
+0.0.0.0 youtube.com.my
+0.0.0.0 youtube.com.ng
+0.0.0.0 youtube.com.ni
+0.0.0.0 youtube.com.om
+0.0.0.0 youtube.com.pa
+0.0.0.0 youtube.com.pe
+0.0.0.0 youtube.com.ph
+0.0.0.0 youtube.com.pk
+0.0.0.0 youtube.com.pl
+0.0.0.0 youtube.com.pt
+0.0.0.0 youtube.com.py
+0.0.0.0 youtube.com.qa
+0.0.0.0 youtube.com.ro
+0.0.0.0 youtube.com.ru
+0.0.0.0 youtube.com.sa
+0.0.0.0 youtube.com.sg
+0.0.0.0 youtube.com.sk
+0.0.0.0 youtube.com.sv
+0.0.0.0 youtube.com.tn
+0.0.0.0 youtube.com.tr
+0.0.0.0 youtube.com.tw
+0.0.0.0 youtube.com.ua
+0.0.0.0 youtube.com.uy
+0.0.0.0 youtube.com.ve
+0.0.0.0 youtube.com.vn
+0.0.0.0 youtube.cz
+0.0.0.0 youtube.de
+0.0.0.0 youtube.dk
+0.0.0.0 youtube.ee
+0.0.0.0 youtube.es
+0.0.0.0 youtube.fi
+0.0.0.0 youtube.fr
+0.0.0.0 youtube.gr
+0.0.0.0 youtube.hu
+0.0.0.0 youtube.ie
+0.0.0.0 youtube.it
+0.0.0.0 youtube.jp
+0.0.0.0 youtube.kr
+0.0.0.0 youtube.lt
+0.0.0.0 youtube.lu
+0.0.0.0 youtube.lv
+0.0.0.0 youtube.mx
+0.0.0.0 youtube.nl
+0.0.0.0 youtube.no
+0.0.0.0 youtube.pl
+0.0.0.0 youtube.pt
+0.0.0.0 youtube.ro
+0.0.0.0 youtube.ru
+0.0.0.0 youtube.se
+0.0.0.0 youtube.si
+0.0.0.0 youtube.sk
+0.0.0.0 youtube.tr
+0.0.0.0 youtube.ua
+0.0.0.0 youtube.vn
+0.0.0.0 devicecompliance.youtube
+0.0.0.0 domaintest.youtube
+0.0.0.0 health.youtube
+0.0.0.0 lifeinaday.youtube
+0.0.0.0 news.youtube
+0.0.0.0 nflst.youtube
+0.0.0.0 nic.youtube
+0.0.0.0 office.youtube
+0.0.0.0 research.youtube
+0.0.0.0 rewind.youtube
+0.0.0.0 songwriters.youtube
+0.0.0.0 standards.youtube
+0.0.0.0 trends.youtube
+#
+# TIKTOK DOMAINS
+#
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 douyin.com
+0.0.0.0 musical.ly
+0.0.0.0 muscdn.com
+0.0.0.0 bytedance.com
+0.0.0.0 byteoversea.com
+0.0.0.0 ibytedtos.com
+0.0.0.0 snssdk.com
+#
+# INSTAGRAM DOMAINS
+#
+0.0.0.0 instagram.com
+0.0.0.0 cdninstagram.com
+#
+# FACEBOOK / META DOMAINS
+#
+0.0.0.0 facebook.com
+0.0.0.0 messenger.com
+0.0.0.0 threads.net
+0.0.0.0 meta.com
+0.0.0.0 fbcdn.net
+0.0.0.0 fbsbx.com
+0.0.0.0 connect.facebook.net
+#
+# FACEBOOK Regional Domains
+#
+0.0.0.0 facebook.ae
+0.0.0.0 facebook.al
+0.0.0.0 facebook.am
+0.0.0.0 facebook.at
+0.0.0.0 facebook.az
+0.0.0.0 facebook.ba
+0.0.0.0 facebook.be
+0.0.0.0 facebook.bg
+0.0.0.0 facebook.bh
+0.0.0.0 facebook.bo
+0.0.0.0 facebook.by
+0.0.0.0 facebook.ca
+0.0.0.0 facebook.cat
+0.0.0.0 facebook.ch
+0.0.0.0 facebook.cl
+0.0.0.0 facebook.co
+0.0.0.0 facebook.co.ae
+0.0.0.0 facebook.co.id
+0.0.0.0 facebook.co.il
+0.0.0.0 facebook.co.in
+0.0.0.0 facebook.co.jp
+0.0.0.0 facebook.co.ke
+0.0.0.0 facebook.co.kr
+0.0.0.0 facebook.co.ma
+0.0.0.0 facebook.co.nz
+0.0.0.0 facebook.co.th
+0.0.0.0 facebook.co.tz
+0.0.0.0 facebook.co.ug
+0.0.0.0 facebook.co.uk
+0.0.0.0 facebook.co.ve
+0.0.0.0 facebook.co.za
+0.0.0.0 facebook.co.zw
+0.0.0.0 facebook.com.ar
+0.0.0.0 facebook.com.au
+0.0.0.0 facebook.com.az
+0.0.0.0 facebook.com.bd
+0.0.0.0 facebook.com.bh
+0.0.0.0 facebook.com.bo
+0.0.0.0 facebook.com.br
+0.0.0.0 facebook.com.co
+0.0.0.0 facebook.com.ec
+0.0.0.0 facebook.com.eg
+0.0.0.0 facebook.com.es
+0.0.0.0 facebook.com.gh
+0.0.0.0 facebook.com.gr
+0.0.0.0 facebook.com.gt
+0.0.0.0 facebook.com.hk
+0.0.0.0 facebook.com.hn
+0.0.0.0 facebook.com.hr
+0.0.0.0 facebook.com.hu
+0.0.0.0 facebook.com.ie
+0.0.0.0 facebook.com.il
+0.0.0.0 facebook.com.in
+0.0.0.0 facebook.com.jm
+0.0.0.0 facebook.com.jo
+0.0.0.0 facebook.com.kw
+0.0.0.0 facebook.com.kz
+0.0.0.0 facebook.com.lb
+0.0.0.0 facebook.com.lv
+0.0.0.0 facebook.com.ly
+0.0.0.0 facebook.com.mx
+0.0.0.0 facebook.com.my
+0.0.0.0 facebook.com.ng
+0.0.0.0 facebook.com.ni
+0.0.0.0 facebook.com.om
+0.0.0.0 facebook.com.pa
+0.0.0.0 facebook.com.pe
+0.0.0.0 facebook.com.ph
+0.0.0.0 facebook.com.pk
+0.0.0.0 facebook.com.pl
+0.0.0.0 facebook.com.pt
+0.0.0.0 facebook.com.py
+0.0.0.0 facebook.com.qa
+0.0.0.0 facebook.com.ro
+0.0.0.0 facebook.com.ru
+0.0.0.0 facebook.com.sa
+0.0.0.0 facebook.com.sg
+0.0.0.0 facebook.com.sk
+0.0.0.0 facebook.com.sv
+0.0.0.0 facebook.com.tn
+0.0.0.0 facebook.com.tr
+0.0.0.0 facebook.com.tw
+0.0.0.0 facebook.com.ua
+0.0.0.0 facebook.com.uy
+0.0.0.0 facebook.com.ve
+0.0.0.0 facebook.com.vn
+0.0.0.0 facebook.cz
+0.0.0.0 facebook.de
+0.0.0.0 facebook.dk
+0.0.0.0 facebook.ee
+0.0.0.0 facebook.es
+0.0.0.0 facebook.fi
+0.0.0.0 facebook.fr
+0.0.0.0 facebook.gr
+0.0.0.0 facebook.hu
+0.0.0.0 facebook.ie
+0.0.0.0 facebook.it
+0.0.0.0 facebook.jp
+0.0.0.0 facebook.kr
+0.0.0.0 facebook.lt
+0.0.0.0 facebook.lu
+0.0.0.0 facebook.lv
+0.0.0.0 facebook.mx
+0.0.0.0 facebook.nl
+0.0.0.0 facebook.no
+0.0.0.0 facebook.pl
+0.0.0.0 facebook.pt
+0.0.0.0 facebook.ro
+0.0.0.0 facebook.ru
+0.0.0.0 facebook.se
+0.0.0.0 facebook.si
+0.0.0.0 facebook.sk
+0.0.0.0 facebook.tr
+0.0.0.0 facebook.ua
+0.0.0.0 facebook.vn
+#
+# X / TWITTER DOMAINS
+#
+0.0.0.0 x.com
+0.0.0.0 twitter.com
+0.0.0.0 twimg.com
+0.0.0.0 t.co
+0.0.0.0 mobile.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 video.twimg.com
+0.0.0.0 cdn.syndication.twimg.com
+#
+# REDDIT DOMAINS
+#
+0.0.0.0 reddit.com
+0.0.0.0 redd.it
+0.0.0.0 redditmedia.com
+0.0.0.0 redditstatic.com
+0.0.0.0 redditstatic.org
+0.0.0.0 v.redd.it
+0.0.0.0 pay.reddit.com
+0.0.0.0 new.reddit.com
+0.0.0.0 old.reddit.com
+#
+# LINKEDIN DOMAINS
+#
+0.0.0.0 linkedin.com
+0.0.0.0 lnkd.in
+0.0.0.0 slideshare.net
+0.0.0.0 linkedin.cn
+0.0.0.0 linkedin.biz
+#
+# PINTEREST DOMAINS
+#
+0.0.0.0 pinterest.com
+0.0.0.0 pinimg.com
+0.0.0.0 pinterest.co.uk
+0.0.0.0 pinterest.ca
+0.0.0.0 pinterest.de
+0.0.0.0 pinterest.fr
+#
+# SNAPCHAT DOMAINS
+#
+0.0.0.0 snapchat.com
+0.0.0.0 snap.com
+0.0.0.0 sc-static.net
+0.0.0.0 snapcamera.snapchat.com
+0.0.0.0 snapkit.com
+#
+# DISCORD DOMAINS
+#
+0.0.0.0 discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 discord.gg
+0.0.0.0 discord.media
+0.0.0.0 discordstatus.com
+0.0.0.0 discordapp.net
+#
+# TELEGRAM DOMAINS
+#
+0.0.0.0 telegram.org
+0.0.0.0 telegram.me
+0.0.0.0 t.me
+0.0.0.0 web.telegram.org
+#
+# WHATSAPP DOMAINS
+#
+0.0.0.0 whatsapp.com
+0.0.0.0 whatsapp.net
+0.0.0.0 web.whatsapp.com
+0.0.0.0 mmg.whatsapp.net
+#
+# TWITCH DOMAINS
+#
+0.0.0.0 twitch.tv
+0.0.0.0 tmi.twitch.tv
+0.0.0.0 static.twitchcdn.net
+0.0.0.0 embed.twitch.tv
+0.0.0.0 clips.twitch.tv
+#
+# VIMEO DOMAINS
+#
+0.0.0.0 vimeo.com
+0.0.0.0 vimeocdn.com
+0.0.0.0 vimeo.tv
+#
+# MASTODON DOMAINS
+#
+0.0.0.0 mastodon.social
+0.0.0.0 joinmastodon.org
+0.0.0.0 toot.cafe
+0.0.0.0 mastodon.online
+#
+# MEDIUM DOMAINS
+#
+0.0.0.0 medium.com
+0.0.0.0 medium.engineering
+0.0.0.0 medium.design
