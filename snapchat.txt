@@ -1,0 +1,14 @@
+# Title: Snapchat Domains
+# Description: Domains owned and operated by Snapchat (Snap Inc.)
+# Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
+# License: GNU GPLv3
+# Last modified: 2026-06-16 12:00:00 UTC
+# Format: hosts
+# Entries: 5
+# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/snapchat.txt
+#
+0.0.0.0 snapchat.com
+0.0.0.0 snap.com
+0.0.0.0 sc-static.net
+0.0.0.0 snapcamera.snapchat.com
+0.0.0.0 snapkit.com

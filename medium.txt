@@ -1,0 +1,12 @@
+# Title: Medium Domains
+# Description: Domains owned and operated by Medium
+# Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
+# License: GNU GPLv3
+# Last modified: 2026-06-16 12:00:00 UTC
+# Format: hosts
+# Entries: 3
+# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/medium.txt
+#
+0.0.0.0 medium.com
+0.0.0.0 medium.engineering
+0.0.0.0 medium.design

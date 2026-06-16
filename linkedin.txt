@@ -1,0 +1,14 @@
+# Title: LinkedIn Domains
+# Description: Domains owned and operated by LinkedIn (Microsoft)
+# Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
+# License: GNU GPLv3
+# Last modified: 2026-06-16 12:00:00 UTC
+# Format: hosts
+# Entries: 5
+# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/linkedin.txt
+#
+0.0.0.0 linkedin.com
+0.0.0.0 lnkd.in
+0.0.0.0 slideshare.net
+0.0.0.0 linkedin.cn
+0.0.0.0 linkedin.biz

@@ -1,0 +1,20 @@
+# Title: X / Twitter Domains
+# Description: Domains owned and operated by X (formerly Twitter)
+# Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
+# License: GNU GPLv3
+# Last modified: 2026-06-16 12:00:00 UTC
+# Format: hosts
+# Entries: 11
+# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/twitter.txt
+#
+0.0.0.0 x.com
+0.0.0.0 twitter.com
+0.0.0.0 twimg.com
+0.0.0.0 t.co
+0.0.0.0 mobile.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 video.twimg.com
+0.0.0.0 cdn.syndication.twimg.com

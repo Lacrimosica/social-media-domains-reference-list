@@ -1,0 +1,13 @@
+# Title: Mastodon Domains
+# Description: Domains used by Mastodon and major Mastodon instances
+# Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
+# License: GNU GPLv3
+# Last modified: 2026-06-16 12:00:00 UTC
+# Format: hosts
+# Entries: 4
+# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/mastodon.txt
+#
+0.0.0.0 mastodon.social
+0.0.0.0 joinmastodon.org
+0.0.0.0 toot.cafe
+0.0.0.0 mastodon.online

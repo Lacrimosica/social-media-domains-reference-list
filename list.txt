@@ -1,10 +1,10 @@
 # Title: Social Media Domains Reference List
-# Description: Comprehensive list of domains owned and operated by major social media platforms (YouTube, TikTok, Instagram, Facebook/Meta, X/Twitter, Reddit, LinkedIn, Pinterest, Snapchat, Discord, Telegram, WhatsApp, Twitch, Vimeo, Mastodon, Medium)
+# Description: Comprehensive list of domains owned and operated by major social media platforms (YouTube, TikTok, Instagram, Facebook/Meta, X/Twitter, Reddit, LinkedIn, Pinterest, Snapchat, Discord, Twitch, Vimeo, Mastodon, Medium)
 # Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
 # License: GNU GPLv3
-# Last modified: 2026-06-16 12:00:00 UTC
+# Last modified: 2026-06-16 12:40:02 UTC
 # Format: hosts
-# Entries: 345
+# Entries: 342
 # URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/list.txt
 #
 # This list contains domain names owned and operated by:
@@ -18,12 +18,11 @@
 # - Pinterest
 # - Snapchat
 # - Discord
-# - Telegram
-# - WhatsApp (Meta Platforms)
 # - Twitch (Amazon)
 # - Vimeo
 # - Mastodon
 # - Medium
+
 #
 # YOUTUBE DOMAINS
 #
@@ -173,6 +172,7 @@
 0.0.0.0 songwriters.youtube
 0.0.0.0 standards.youtube
 0.0.0.0 trends.youtube
+
 #
 # TIKTOK DOMAINS
 #
@@ -186,24 +186,28 @@
 0.0.0.0 byteoversea.com
 0.0.0.0 ibytedtos.com
 0.0.0.0 snssdk.com
+
 #
 # INSTAGRAM DOMAINS
 #
 0.0.0.0 instagram.com
 0.0.0.0 cdninstagram.com
+
 #
-# FACEBOOK / META DOMAINS
+# FACEBOOK DOMAINS
 #
 0.0.0.0 facebook.com
 0.0.0.0 messenger.com
 0.0.0.0 threads.net
 0.0.0.0 meta.com
+0.0.0.0 fb.com
+0.0.0.0 fb.me
 0.0.0.0 fbcdn.net
+0.0.0.0 fbcdn.com
 0.0.0.0 fbsbx.com
+0.0.0.0 facebook.net
+0.0.0.0 tfbnw.net
 0.0.0.0 connect.facebook.net
-#
-# FACEBOOK Regional Domains
-#
 0.0.0.0 facebook.ae
 0.0.0.0 facebook.al
 0.0.0.0 facebook.am
@@ -319,8 +323,9 @@
 0.0.0.0 facebook.tr
 0.0.0.0 facebook.ua
 0.0.0.0 facebook.vn
+
 #
-# X / TWITTER DOMAINS
+# TWITTER DOMAINS
 #
 0.0.0.0 x.com
 0.0.0.0 twitter.com
@@ -333,6 +338,7 @@
 0.0.0.0 abs.twimg.com
 0.0.0.0 video.twimg.com
 0.0.0.0 cdn.syndication.twimg.com
+
 #
 # REDDIT DOMAINS
 #
@@ -345,6 +351,7 @@
 0.0.0.0 pay.reddit.com
 0.0.0.0 new.reddit.com
 0.0.0.0 old.reddit.com
+
 #
 # LINKEDIN DOMAINS
 #
@@ -353,6 +360,7 @@
 0.0.0.0 slideshare.net
 0.0.0.0 linkedin.cn
 0.0.0.0 linkedin.biz
+
 #
 # PINTEREST DOMAINS
 #
@@ -362,6 +370,7 @@
 0.0.0.0 pinterest.ca
 0.0.0.0 pinterest.de
 0.0.0.0 pinterest.fr
+
 #
 # SNAPCHAT DOMAINS
 #
@@ -370,6 +379,7 @@
 0.0.0.0 sc-static.net
 0.0.0.0 snapcamera.snapchat.com
 0.0.0.0 snapkit.com
+
 #
 # DISCORD DOMAINS
 #
@@ -379,20 +389,7 @@
 0.0.0.0 discord.media
 0.0.0.0 discordstatus.com
 0.0.0.0 discordapp.net
-#
-# TELEGRAM DOMAINS
-#
-0.0.0.0 telegram.org
-0.0.0.0 telegram.me
-0.0.0.0 t.me
-0.0.0.0 web.telegram.org
-#
-# WHATSAPP DOMAINS
-#
-0.0.0.0 whatsapp.com
-0.0.0.0 whatsapp.net
-0.0.0.0 web.whatsapp.com
-0.0.0.0 mmg.whatsapp.net
+
 #
 # TWITCH DOMAINS
 #
@@ -401,12 +398,14 @@
 0.0.0.0 static.twitchcdn.net
 0.0.0.0 embed.twitch.tv
 0.0.0.0 clips.twitch.tv
+
 #
 # VIMEO DOMAINS
 #
 0.0.0.0 vimeo.com
 0.0.0.0 vimeocdn.com
 0.0.0.0 vimeo.tv
+
 #
 # MASTODON DOMAINS
 #
@@ -414,6 +413,7 @@
 0.0.0.0 joinmastodon.org
 0.0.0.0 toot.cafe
 0.0.0.0 mastodon.online
+
 #
 # MEDIUM DOMAINS
 #

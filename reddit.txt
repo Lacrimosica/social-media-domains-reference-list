@@ -1,0 +1,18 @@
+# Title: Reddit Domains
+# Description: Domains owned and operated by Reddit
+# Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
+# License: GNU GPLv3
+# Last modified: 2026-06-16 12:00:00 UTC
+# Format: hosts
+# Entries: 9
+# URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/reddit.txt
+#
+0.0.0.0 reddit.com
+0.0.0.0 redd.it
+0.0.0.0 redditmedia.com
+0.0.0.0 redditstatic.com
+0.0.0.0 redditstatic.org
+0.0.0.0 v.redd.it
+0.0.0.0 pay.reddit.com
+0.0.0.0 new.reddit.com
+0.0.0.0 old.reddit.com
