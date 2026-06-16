@@ -18,3 +18,7 @@
 0.0.0.0 abs.twimg.com
 0.0.0.0 video.twimg.com
 0.0.0.0 cdn.syndication.twimg.com
+||twitter.com^
+||twttr.com^
+||t.co^
+||twimg.com^
