@@ -2,7 +2,7 @@
 # Description: Domains owned and operated by YouTube (Google/Alphabet)
 # Homepage: https://github.com/Lacrimosica/social-media-domains-reference-list
 # License: GNU GPLv3
-# Last modified: 2026-06-16 12:58:44 UTC
+# Last modified: 2026-07-05 09:09:32 UTC
 # Format: hosts
 # Entries: 215
 # URL: https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-list/main/lists/youtube.txt
@@ -19,6 +19,7 @@ googlevideo.com
 0.0.0.0 ggpht.cn
 0.0.0.0 withyoutube.com
 0.0.0.0 ytimg.com
+0.0.0.0 i.ytimg.com
 0.0.0.0 youtube.ae
 0.0.0.0 youtube.al
 0.0.0.0 youtube.am
@@ -155,6 +156,8 @@ googlevideo.com
 0.0.0.0 songwriters.youtube
 0.0.0.0 standards.youtube
 0.0.0.0 trends.youtube
+0.0.0.0 acccounts.youtube.com
+0.0.0.0 yt3.ggpht.com
 r3---sn-o097znlk.googlevideo.com
 r5---sn-n4v7knlk.googlevideo.com
 r5---sn-n4v7sn7y.googlevideo.com
@@ -368,3 +371,7 @@ r4---sn-n4v7sn7y.googlevideo.com
 r4---sn-t0a7ln7d.googlevideo.com
 r5---sn-n4v7sn7s.googlevideo.com
 r6---sn-n4v7sn7l.googlevideo.com
+rr2---sn-hpa7zn6s.googlevideo.com
+rr4---sn-hpa7zn66.googlevideo.com
+rr4---sn-2ohpa5-55.googlevideo.com
+rr4---sn-hpa7kn7d.googlevideo.com
