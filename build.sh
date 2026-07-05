@@ -98,6 +98,28 @@ if [[ "$SKIP_IGNORE" == false ]]; then
   esac
 fi
 
+# ── Bump per-file "Last modified" for changed list files ──────────────────────
+# Any file in lists/ with uncommitted changes (per git status) gets its own
+# header timestamp refreshed to this build's time.
+if git -C "$REPO_DIR" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+  BUMPED=()
+  while IFS= read -r rel; do
+    [[ -z "$rel" ]] && continue
+    file="$REPO_DIR/$rel"
+    [[ -f "$file" ]] || continue
+    # Only touch files that actually carry a Last modified header.
+    if grep -qE '^# Last modified:' "$file"; then
+      sed -i "s|^# Last modified:.*|# Last modified: ${DATE}|" "$file"
+      BUMPED+=("$(basename "$rel")")
+    fi
+  done < <(git -C "$REPO_DIR" status --porcelain -- "$LISTS_DIR" | sed -E 's/^.{3}//; s/.* -> //')
+
+  if [[ ${#BUMPED[@]} -gt 0 ]]; then
+    echo ""
+    echo "Refreshed 'Last modified' for: ${BUMPED[*]}"
+  fi
+fi
+
 # ── Count total entries ───────────────────────────────────────────────────────
 TOTAL=0
 for name in "${ALL_NAMES[@]}"; do
