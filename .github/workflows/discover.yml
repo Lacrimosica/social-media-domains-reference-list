@@ -1,0 +1,43 @@
+name: Discover YouTube domains
+
+on:
+  schedule:
+    - cron: "17 6 * * 1" # Mondays 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Find new YouTube hostnames
+        id: discover
+        run: |
+          set -o pipefail
+          python3 -I tools/discover.py --write | tee "$RUNNER_TEMP/discover.log"
+
+      - name: Rebuild master blocklist
+        if: steps.discover.outcome == 'success'
+        run: |
+          # build.sh asks for a choice; 1 = build with the ignore list applied.
+          echo 1 | ./build.sh
+
+      - name: Open pull request for review
+        if: steps.discover.outcome == 'success'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: auto/youtube-discovery
+          commit-message: "Add newly discovered YouTube domains"
+          title: "Discovered YouTube domains"
+          body-path: ${{ runner.temp }}/discover.log
+          add-paths: |
+            lists/youtube.txt
+            master-blocklist.txt
+          labels: automated
+          delete-branch: true
