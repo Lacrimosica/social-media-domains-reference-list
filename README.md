@@ -13,6 +13,18 @@ https://raw.githubusercontent.com/Lacrimosica/social-media-domains-reference-lis
 3. Click Add.
 4. Go to Tools > Update Gravity and click Update.
 
+## Automatic updates
+A weekly GitHub Action (`.github/workflows/discover.yml`) runs `tools/discover.py`, which
+checks certificate transparency logs (crt.sh) for YouTube hostnames missing from
+`lists/youtube.txt`. If it finds any, it rebuilds `master-blocklist.txt` and opens a pull
+request titled "Discovered YouTube domains". Review the PR before merging: a discovered name
+is not guaranteed to belong to YouTube.
+
+To check locally without changing anything:
+```
+python3 tools/discover.py
+```
+
 ## License
 This repository is published under the GNU General Public License v3.0.
 See `LICENSE` for the full license text.
