@@ -17,6 +17,7 @@
 # - Pinterest
 # - Reddit
 # - Snapchat (Snap Inc.)
+# - Telegram
 # - TikTok (ByteDance)
 # - Twitch (Amazon)
 # - X / Twitter
